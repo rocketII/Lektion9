@@ -10,7 +10,7 @@
  *
  * Created on den 16 februari 2016, 13:21
  */
-
+// &0>1
 #include <cstdlib>
 #include <iostream>
 #include <sstream>
